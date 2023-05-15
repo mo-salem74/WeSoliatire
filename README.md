@@ -1,5 +1,6 @@
 # WeSoliatire
 Klondike card game made in C++, with the SFML graphics library, featuring drag-and-drop functionality.
+Demo video: https://drive.google.com/drive/folders/1S8raeiMuKyUYMUUlNJrxuNc-PBuz5_c7?usp=sharing
 
 -How to open the program:
 1) Extract the compressed file. 
